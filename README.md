@@ -46,6 +46,11 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/SowmyaVisvanathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475775/b5a02994-06a4-4078-be3a-87f833e22a72)
+
+![image](https://github.com/SowmyaVisvanathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475775/f6a0d82f-1078-471c-abf3-a745d6f07135)
+
+![image](https://github.com/SowmyaVisvanathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475775/096564b6-dc08-4b8f-900d-39d173e8652a)
 
 ### Name:
 ### Register Number:

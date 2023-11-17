@@ -52,8 +52,8 @@
 
 ![image](https://github.com/SowmyaVisvanathan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119475775/096564b6-dc08-4b8f-900d-39d173e8652a)
 
-### Name:
-### Register Number:
+### Name: SOWMYA V
+### Register Number: 212222110045
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
